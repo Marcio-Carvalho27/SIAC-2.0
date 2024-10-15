@@ -33,3 +33,6 @@ Seja um sistema de suporte ao aluno, onde ele pode acompanhar suas notas, materi
 - Horarios do Busufba
 - 
 ### Links Uteis
+
+
+https://www.figma.com/board/kyt50nnr1meXh6qhS2BFth/Untitled?node-id=5-198&t=AOZxd24by5TNPTeJ-1
