@@ -18,6 +18,16 @@ Seja um sistema de suporte ao aluno, onde ele pode acompanhar suas notas, materi
 - Botão pra gerar o Historico escolar
 
 ### Aproveitamento da CH complementar
+- Informações sobre as horas complementares (Quantidade de horas necessárias, quantidade de horas aproveitadas)
+- Botão para requerir aproveitamento de CH complementar
+> - Abre outra página
+> - Status de requerimentos passados (Em Andamento/Aceito/Negado)
+> - Bloco para anexar documentos necessários (Comprovante/Declaração) e escrever informações extras
+> - Botão para enviar novo requerimento
+>> - Atualiza a página
+>> - Adiciona o novo requerimento à lista de requerimentos
+>> - Mostra uma mensagem dizendo que a submissão foi concluída
+ 
 ### Comprovante de Matricula
 - O classico
   
