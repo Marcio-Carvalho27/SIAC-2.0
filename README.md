@@ -21,7 +21,7 @@ Seja um sistema de suporte ao aluno, onde ele pode acompanhar suas notas, materi
 ### Comprovante de Matricula
 - O classico
   
-### Trancameto + Acompanhamento
+### Trancamento + Acompanhamento
 - O classico
   
 ### Calendario
